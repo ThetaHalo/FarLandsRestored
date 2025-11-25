@@ -1,0 +1,16 @@
+# DO NOT CHANGE!!!
+config-version: 1
+# ----------------
+
+# This is the configuration for FarlandsRestored
+# The only required option is enabled: true, all others have default values which are set.
+
+worlds:
+  world:
+    enabled: true
+    options:
+      world-name: "world"
+      lowX: -12550824
+      lowZ: -12550824
+      highX: 12550824
+      highZ: 12550824

@@ -1,0 +1,10 @@
+name: FarlandsRestored
+description: Plugin which modifies the noise generator so that Farlands are able to generate in modern versions.
+version: '1.0.1'
+authors:
+  - ThetaHalo
+  - XerxesTireIron
+website: "https://github.com/ThetaHalo/FarLandsRestored"
+load: STARTUP
+main: lol.eps.farlandsRestored.FarlandsRestored
+api-version: '1.21'
